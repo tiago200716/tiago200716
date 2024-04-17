@@ -12,13 +12,13 @@
 
 
 - **equipos de basket favoritos
+-los angeles lakers
+-los warriors
+-los celtics
+-chicago bulls
+-bruklin nets
 
 
-<code><a href="https:los angeles lakers" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https:bruklin nets" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https:los celtics" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<code><a href="https:chicago bulls" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
-<code><a href="https:los warriors" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 
 
 ## 🌱 Actualmente estoy aprendiendo ...
